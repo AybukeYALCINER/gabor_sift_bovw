@@ -4,7 +4,7 @@
 
 To compare the actual labels and predicted labels for query images, I separate the images class by class like in train dataset.
 To run the code in spyder or pycharm, just put the dataset folder in the same location with python file. Then run the code. 
-
+<br>
 # The organization of the code
 
 After I wrote all functions, I call all of them in the main function. To run the code, I just call the main() function. All
@@ -24,7 +24,7 @@ def load_images_from_folder(folder) => Takes the path of the folders as paramete
 
 To see the effect of gabor filter bank; call the below functions in the main function respectively;
 
-filters = build_filters()
+filters = build_filters() <br>
 feature_vectors = gabor_feature_vector(images, filters) 
 test_vectors = gabor_feature_vector(test,filters) 
 results = knn(feature_vectors, test_vectors) 
