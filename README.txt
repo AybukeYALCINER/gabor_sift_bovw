@@ -1,10 +1,4 @@
-#						#
-#	13/04/19				#
-#	Computer Vision Lab. Assignment1	#
-#	Identity Number : 21527544		#
-#						#
-#################################################
-
+Dataset: https://drive.google.com/open?id=1PmeoRg3tbC_Cl94CYJ-1-gADmu77fYN0
 
 # How to run code
 
