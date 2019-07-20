@@ -1,7 +1,7 @@
 ## You can access the Dataset: https://drive.google.com/open?id=1PmeoRg3tbC_Cl94CYJ-1-gADmu77fYN0
 
 
-# Read my blog: https://medium.com/@aybukeyalcinerr/bag-of-visual-words-with-spatial-tiling-439d3663f7e2
+## Read my blog: https://medium.com/@aybukeyalcinerr/bag-of-visual-words-with-spatial-tiling-439d3663f7e2
 
 # How to run code
 
